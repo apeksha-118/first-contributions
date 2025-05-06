@@ -1045,6 +1045,7 @@ Matthew Burgos
 - [kazuma](https://github.com/Mio-3)
 - [Kai Krah](https://github.com/KaiKrah79)
 - [leviiii] (https://github.com/Shekhar2107)
+- [Apeksha Bharti](https://github.com/apeksha-118)
 - [Vinothini Thangamani](https://github.com/VinothiniSaravankumar)
 - [Saif Mohammed](https://github.com/SaifMohammed22)
 - [Ryan Tham](https://github.com/ryanjrt)
